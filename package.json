@@ -1,6 +1,6 @@
 {
   "name": "<%= projectName %>",
-  "version": "<%= projectName %>",
+  "version": "<%= projectVersion %>",
   "description": "<%= projectDescription %>",
   "main": "index.js",
   "repository": "https://github.com/Xwatson/xwatson-temp.git",
