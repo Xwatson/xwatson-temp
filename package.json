@@ -1,0 +1,9 @@
+{
+  "name": "<%= projectName %>",
+  "version": "<%= projectName %>",
+  "description": "<%= projectDescription %>",
+  "main": "index.js",
+  "repository": "https://github.com/Xwatson/xwatson-temp.git",
+  "author": "Xwatson",
+  "license": "MIT"
+}
